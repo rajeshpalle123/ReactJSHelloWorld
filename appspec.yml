@@ -5,7 +5,7 @@ os: ubuntu
 
 files:
   - source: /
-    destination: /home/ubunru/
+    destination: /home/ubuntu/
 
 permissions:
   - object: /
